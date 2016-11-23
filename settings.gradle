@@ -1,0 +1,2 @@
+include ':app', ':XListView-master'
+include ':viewPagerIndicator'
